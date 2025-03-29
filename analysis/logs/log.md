@@ -4,11 +4,14 @@
 Following the [Rose/Bud/Thorn](https://www.panoramaed.com/blog/rose-bud-thorn-activity-and-worksheet#:~:text=%22Rose%2C%20Bud%2C%20Thorn%22%20is%20a%20mindful%20design%2D,day%2C%20week%2C%20or%20month.) model:
 
 ### Date: 
-Week number, today's date, etc. 
+Week-1, 3/29/2025
 
 
 ### Number of hours: 
-A quantity of hours, maybe towards specific tasks. 
+- 10 hours to extract the comments from PBS EONS youtube channel
+- 3 hours to analyze the extracted youtube comments
+- 6 hours for further data cleanup and designing model approach
+- 3 hours to document the project proposal 
 
 ### Rose:
 The highlight from the previous weekly/bi-weekly working period, such as something you found particularly rewarding. This could also be something you're excited to implement now.
